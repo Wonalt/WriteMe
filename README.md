@@ -1,4 +1,4 @@
 # WriteMe
 Record all your contributions and efforts on the job.
 
-- first commit 
+- second commit 
